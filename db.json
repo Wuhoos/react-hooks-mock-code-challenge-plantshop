@@ -4,43 +4,57 @@
       "id": 1,
       "name": "Aloe",
       "image": "./images/aloe.jpg",
+      "soldOut": false,
       "price": 15.99
     },
     {
       "id": 2,
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
+      "soldOut": false,
       "price": 25.98
     },
     {
       "id": 3,
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
+      "soldOut": false,
       "price": 5.99
     },
     {
       "id": 4,
       "name": "Pothos",
       "image": "./images/pothos.jpg",
+      "soldOut": false,
       "price": 12.11
     },
     {
       "id": 5,
       "name": "Jade",
       "image": "./images/jade.jpg",
+      "soldOut": false,
       "price": 10.37
     },
     {
       "id": 6,
       "name": "Monstera Deliciosa",
       "image": "./images/monstera.jpg",
+      "soldOut": false,
       "price": 25.99
     },
     {
       "id": 7,
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
+      "soldOut": false,
       "price": 55
+    },
+    {
+      "name": "maple",
+      "image": "./assets/food/mushroom-burger.webp",
+      "price": "0.02",
+      "soldOut": false,
+      "id": 8
     }
   ]
 }
