@@ -69,6 +69,32 @@
       "inStock": true,
       "price": "200",
       "id": 10
+    },
+    {
+      "name": "asd",
+      "image": "./assets/food/mushroom-burger.webp",
+      "price": "1000",
+      "id": 11
+    },
+    {
+      "name": "asd",
+      "image": "./assets/food/mushroom-burger.webp",
+      "price": "10900",
+      "id": 12
+    },
+    {
+      "name": "David ",
+      "image": "./assets/food/mushroom-burger.webp",
+      "inStock": true,
+      "price": "1000000",
+      "id": 13
+    },
+    {
+      "name": "earth",
+      "image": "./assets/food/mushroom-burger.webp",
+      "inStock": true,
+      "price": "1008858670978",
+      "id": 14
     }
   ]
 }
